@@ -2,3 +2,4 @@ pate
 tomates
 mozarella
 basilic
+ananas
